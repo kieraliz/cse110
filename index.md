@@ -1,5 +1,7 @@
 # Hi I'm Kiera Navarro!
 
+[<img src="IMG_0706.jpg">]()
+
 I'm a 3rd year Math-CS student at UC San Diego
 I'm fairly involved on student organizations on campus; I am an ...
 - [X] Event Host for the Cyber Community in Association of Computing Machinery (ACM)
