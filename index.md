@@ -6,7 +6,7 @@ I'm a 3rd year Math-CS student at UC San Diego. I'm fairly involved on student o
 - [X] Event Host for the Cyber Community in Association of Computing Machinery (ACM) 
 - [X] Outreach/Events Coordinator for Girl Gains
 
-My career goal is to become an Information Security Engineer and Analyst. I've been working as a student intern at Intel for about 1.5 years. My internship has helped me understand the daily operations of a security organization and how to work in an agile team. I have also earned the ISC<sup>2</sup> [Certified in Cybersecurity](https://www.isc2.org/certified-in-cybersecurity?filter=featured&searchRoot=A82B5ABE5FF04271998AE8A4B5D7DEFD) certification, and I'm currently studying for the CompTIA [Security+](https://www.comptia.org/certifications/security) certification. 
+My career goal is to become an Information Security Engineer and Analyst. I've been working as an InfoSec Engineer and Analyst student intern at Intel for about 1.5 years. My internship has helped me understand the daily operations of a security organization and how to work in an agile team. I have also earned the ISC<sup>2</sup> [Certified in Cybersecurity](https://www.isc2.org/certified-in-cybersecurity?filter=featured&searchRoot=A82B5ABE5FF04271998AE8A4B5D7DEFD) certification, and I'm currently studying for the CompTIA [Security+](https://www.comptia.org/certifications/security) certification. 
 
 ## My technical experience
 
