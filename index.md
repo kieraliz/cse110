@@ -20,7 +20,7 @@ My career goal is to become an Information Security Engineer and Analyst. I've b
     <img src="Intel.png" width="18%">
    </a>
    <a href="https://www.isc2.org/certified-in-cybersecurity?filter=featured&searchRoot=A82B5ABE5FF04271998AE8A4B5D7DEFD">
-    <img src="ISC.png" width="18%">
+    <img src="CC.png" width="18%">
    </a>
    <a href="https://www.comptia.org/certifications/security">
     <img src="Sec+.png" width="18%">
