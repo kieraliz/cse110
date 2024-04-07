@@ -2,8 +2,8 @@
 
 I'm a 3rd year Math-CS student at UC San Diego
 I'm fairly involved on student organizations on campus; I am an ...
-- [ ] Event Host for the Cyber Community in Association of Computing Machinery (ACM)
-- [ ] Outreach/Events Coordinator for Girl Gains
+- [X] Event Host for the Cyber Community in Association of Computing Machinery (ACM)
+- [X] Outreach/Events Coordinator for Girl Gains
 
 ## My technical experience
 
