@@ -1,6 +1,9 @@
 # Hi I'm Kiera Navarro!
 
 I'm a 3rd year Math-CS student at UC San Diego
+I'm fairly involved on student organizations on campus; I am an ...
+- [ ] Event Host for the Cyber Community in Association of Computing Machinery (ACM)
+- [ ] Outreach/Events Coordinator for Girl Gains
 
 ## My technical experience
 
@@ -19,13 +22,6 @@ git push origin --delete test-git
 git worktree prune
 git fetch test-git --prune
 ```
-
-My personal goal is to ...
-- [ ] Learn how to work in a SWE team
-- [ ] Pass CSE 110 and make a nice project
-- [ ] Graduate in June 2025
-- [ ] Land a full-time job
-
 
 This my personal [GitHub profile](https://github.com/kieraliz)
 
