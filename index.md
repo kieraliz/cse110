@@ -5,9 +5,7 @@ I'm fairly involved on student organizations on campus; I am an ...
 - [X] Event Host for the Cyber Community in Association of Computing Machinery (ACM)
 - [X] Outreach/Events Coordinator for Girl Gains
 
-<a href="https://acmucsd.com/"><img src="ACM.png" align="left" width="30%"></a>
-<a href="https://www.instagram.com/girlgainsucsd/"><img src="GG.png" align="left" width="30%"></a>
-
+My career goal is to become an Information Security Engineer and Analyst. I've been working as a student intern at Intel for about 1.5 years. My internship has helped me understand the daily operations of a security organization and how to work in an agile team. I have also earned the ISC<sup>2</sup> [Certified in Cybersecurity](https://www.isc2.org/certified-in-cybersecurity?filter=featured&searchRoot=A82B5ABE5FF04271998AE8A4B5D7DEFD) certification, and I'm currently studying for the CompTIA [Security+](https://www.comptia.org/certifications/security) certification. 
 
 
 
