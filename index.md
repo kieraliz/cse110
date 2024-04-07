@@ -5,8 +5,11 @@ I'm fairly involved on student organizations on campus; I am an ...
 - [X] Event Host for the Cyber Community in Association of Computing Machinery (ACM)
 - [X] Outreach/Events Coordinator for Girl Gains
 
-[<img src="ACM.png">](https://acmucsd.com/)
-[<img src="GG.png">](https://www.instagram.com/girlgainsucsd/)
+<a href="https://acmucsd.com/"><img src="ACM.png" align="left" width="30%"></a>
+<a href="https://www.instagram.com/girlgainsucsd/"><img src="GG.png" align="left" width="30%"></a>
+
+
+
 
 ## My technical experience
 
