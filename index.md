@@ -8,6 +8,20 @@ I'm a 3rd year Math-CS student at UC San Diego. I'm fairly involved on student o
 
 My career goal is to become an Information Security Engineer and Analyst. I've been working as an InfoSec Engineer and Analyst student intern at Intel for about 1.5 years. My internship has helped me understand the daily operations of a security organization and how to work in an agile team. I have also earned the ISC<sup>2</sup> [Certified in Cybersecurity](https://www.isc2.org/certified-in-cybersecurity?filter=featured&searchRoot=A82B5ABE5FF04271998AE8A4B5D7DEFD) certification, and I'm currently studying for the CompTIA [Security+](https://www.comptia.org/certifications/security) certification. 
 
+<html>
+  <p>
+   <a href="https://acmucsd.com/">
+    <img src="ACM.png" width="18%">
+   </a>
+   <a href="https://www.instagram.com/girlgainsucsd/">
+    <img src="GG.png" width="18%">
+   </a>
+   <a href="https://www.intel.com/content/www/us/en/homepage.html">
+    <img src="Intel.png" width="18%">
+   </a>
+</p>
+</html>
+
 ## My technical experience
 
 * **Languages**: Java, Python, C, C++, Assembly, HTML, MATLAB, YAML, Splunk SPL
