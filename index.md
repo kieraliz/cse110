@@ -29,6 +29,8 @@ git worktree prune
 git fetch test-git --prune
 ```
 
-This my personal [GitHub profile](https://github.com/kieraliz)
+## More from Me
 
 This page was built on my [GitHub repo](https://github.com/kieraliz/cse110)
+
+This my personal [GitHub profile](https://github.com/kieraliz)
