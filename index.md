@@ -31,6 +31,6 @@ git fetch test-git --prune
 
 ## More from Me
 
-This page was built on my [GitHub repo](https://github.com/kieraliz/cse110)
+This page was built [here](https://github.com/kieraliz/cse110/blob/main/index.md) and on my [GitHub repo](https://github.com/kieraliz/cse110)
 
-This my personal [GitHub profile](https://github.com/kieraliz)
+See my personal [GitHub profile](https://github.com/kieraliz) for more
