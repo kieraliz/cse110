@@ -5,6 +5,9 @@ I'm fairly involved on student organizations on campus; I am an ...
 - [X] Event Host for the Cyber Community in Association of Computing Machinery (ACM)
 - [X] Outreach/Events Coordinator for Girl Gains
 
+[<img src="ACM.png">](https://acmucsd.com/)
+[<img src="GG.png">](https://www.instagram.com/girlgainsucsd/)
+
 ## My technical experience
 
 * **Languages**: Java, Python, C, C++, Assembly, HTML, MATLAB, YAML, Splunk SPL
