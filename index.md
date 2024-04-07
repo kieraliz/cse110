@@ -11,7 +11,7 @@ My career goal is to become an Information Security Engineer and Analyst. I've b
 <html>
   <p>
    <a href="https://acmucsd.com/">
-    <img src="ACM.png" width="18%">
+    <img src="ACM.jpg" width="18%">
    </a>
    <a href="https://www.instagram.com/girlgainsucsd/">
     <img src="GG.png" width="18%">
