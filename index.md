@@ -11,19 +11,19 @@ My career goal is to become an Information Security Engineer and Analyst. I've b
 <html>
   <p>
    <a href="https://acmucsd.com/">
-    <img src="ACM.jpg" width="18%">
+    <img src="logos/ACM.jpg" width="18%">
    </a>
    <a href="https://www.instagram.com/girlgainsucsd/">
-    <img src="GG.png" width="18%">
+    <img src="logos/GG.png" width="18%">
    </a>
    <a href="https://www.intel.com/content/www/us/en/homepage.html">
-    <img src="Intel.png" width="18%">
+    <img src="logos/Intel.png" width="18%">
    </a>
    <a href="https://www.isc2.org/certified-in-cybersecurity?filter=featured&searchRoot=A82B5ABE5FF04271998AE8A4B5D7DEFD">
-    <img src="CC.png" width="18%">
+    <img src="logos/CC.png" width="18%">
    </a>
    <a href="https://www.comptia.org/certifications/security">
-    <img src="Sec+.png" width="18%">
+    <img src="logos/Sec+.png" width="18%">
    </a>
 </p>
 </html>
